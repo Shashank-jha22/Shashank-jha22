@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank-jha22&label=Profile%20views&color=0e75b6&style=flat" alt="shashank-jha22" /> </p>
 
-- 🔭 I’m currently working on [CHIT CHAT](https://github.com/Shashank-jha22/Chit-Chat.git)
+- 🔭 I’m currently working on [Dream Nest](https://github.com/Shashank-jha22/Dream-Nest)
 
 - 🌱 I’m currently learning **Machine Learning**
 
